@@ -1,7 +1,6 @@
 ## Danièle L. Filiault
 
-This is an initial profile page for FOSS 2020
-
+Quantitative and evolutionary genomics
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
