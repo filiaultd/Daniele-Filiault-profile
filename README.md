@@ -1,7 +1,11 @@
-## Danièle L. Filiault
+# Danièle L. Filiault
 
 Quantitative and evolutionary genomics
-### Markdown
+## Projects
+
+### _Aquilegia_
+
+### _Arabidopsis thaliana_
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
